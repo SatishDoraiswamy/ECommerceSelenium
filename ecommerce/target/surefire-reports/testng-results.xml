@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="23177" started-at="2019-08-23T15:59:44Z" finished-at="2019-08-23T16:00:07Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="23177" started-at="2019-08-23T15:59:44Z" finished-at="2019-08-23T16:00:07Z">
+      <class name="com.ecommerce.project.ecommerce.test.WelcomeTest">
+        <test-method status="PASS" signature="initialization()[pri:0, instance:com.ecommerce.project.ecommerce.test.WelcomeTest@c038203]" name="initialization" is-config="true" duration-ms="23231" started-at="2019-08-23T21:29:21Z" finished-at="2019-08-23T21:29:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialization -->
+        <test-method status="PASS" signature="getTitleOfWelcomePage(java.lang.String, java.lang.String, java.lang.reflect.Method)[pri:0, instance:com.ecommerce.project.ecommerce.test.WelcomeTest@c038203]" name="getTitleOfWelcomePage" duration-ms="23162" started-at="2019-08-23T21:29:44Z" data-provider="testdata" finished-at="2019-08-23T21:30:07Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[a]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[b]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[public static void com.ecommerce.project.ecommerce.test.WelcomeTest.getTitleOfWelcomePage(java.lang.String,java.lang.String,java.lang.reflect.Method)]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getTitleOfWelcomePage -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.ecommerce.project.ecommerce.test.WelcomeTest@c038203]" name="tearDown" is-config="true" duration-ms="162" started-at="2019-08-23T21:30:07Z" finished-at="2019-08-23T21:30:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.ecommerce.project.ecommerce.test.WelcomeTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

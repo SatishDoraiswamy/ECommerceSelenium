@@ -42,3 +42,17 @@
 2019-08-23 21:29:44,755 - com.ecommerce.project.ecommerce.test.WelcomeTest -INFO - getTitleOfWelcomePage Execution started !!!!
 2019-08-23 21:29:44,756 - com.ecommerce.project.ecommerce.pages.WelcomePage -INFO - Capturing the Title of the Element
 2019-08-23 21:30:07,805 - com.ecommerce.project.ecommerce.test.WelcomeTest -INFO - getTitleOfWelcomePage Execution ended !!!!
+2019-08-24 22:33:39,884 - com.ecommerce.project.ecommerce.globalvariables.basepage.BaseSuite -INFO - Loading test data !!!
+2019-08-24 22:34:02,767 - com.ecommerce.project.ecommerce.globalvariables.basepage.BaseSuite -INFO - Loading test data !!!
+2019-08-24 22:34:02,824 - com.ecommerce.project.ecommerce.test.WelcomeTest -INFO - getTitleOfWelcomePage Execution started !!!!
+2019-08-24 22:34:02,826 - com.ecommerce.project.ecommerce.pages.WelcomePage -INFO - Capturing the Title of the Element
+2019-08-24 22:34:20,961 - com.ecommerce.project.ecommerce.test.WelcomeTest -INFO - getTitleOfWelcomePage Execution ended !!!!
+2019-08-24 22:47:30,324 - com.ecommerce.project.ecommerce.globalvariables.basepage.BaseSuite -INFO - Loading test data !!!
+2019-08-24 22:47:51,029 - com.ecommerce.project.ecommerce.globalvariables.basepage.BaseSuite -INFO - Loading test data !!!
+2019-08-24 22:47:51,093 - com.ecommerce.project.ecommerce.test.WelcomeTest -INFO - getTitleOfWelcomePage Execution started !!!!
+2019-08-24 22:47:51,096 - com.ecommerce.project.ecommerce.pages.WelcomePage -INFO - Capturing the Title of the Element
+2019-08-24 22:48:08,370 - com.ecommerce.project.ecommerce.test.WelcomeTest -INFO - getTitleOfWelcomePage Execution ended !!!!
+2019-08-24 23:13:03,756 - com.ecommerce.project.ecommerce.globalvariables.basepage.BaseSuite -INFO - Loading test data !!!
+2019-08-24 23:13:16,633 - com.ecommerce.project.ecommerce.globalvariables.basepage.BaseSuite -INFO - Loading test data !!!
+2019-08-24 23:13:16,748 - com.ecommerce.project.ecommerce.test.WelcomeTest -INFO - getTitleOfWelcomePage Execution started !!!!
+2019-08-24 23:13:16,750 - com.ecommerce.project.ecommerce.pages.WelcomePage -INFO - Capturing the Title of the Element

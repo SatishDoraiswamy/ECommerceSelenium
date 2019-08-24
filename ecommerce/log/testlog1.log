@@ -42,3 +42,17 @@
 2019-08-23 21:29:44,755 [main] INFO com.ecommerce.project.ecommerce.test.WelcomeTest - getTitleOfWelcomePage Execution started !!!!
 2019-08-23 21:29:44,756 [main] INFO com.ecommerce.project.ecommerce.pages.WelcomePage - Capturing the Title of the Element
 2019-08-23 21:30:07,805 [main] INFO com.ecommerce.project.ecommerce.test.WelcomeTest - getTitleOfWelcomePage Execution ended !!!!
+2019-08-24 22:33:39,884 [main] INFO com.ecommerce.project.ecommerce.globalvariables.basepage.BaseSuite - Loading test data !!!
+2019-08-24 22:34:02,767 [main] INFO com.ecommerce.project.ecommerce.globalvariables.basepage.BaseSuite - Loading test data !!!
+2019-08-24 22:34:02,824 [main] INFO com.ecommerce.project.ecommerce.test.WelcomeTest - getTitleOfWelcomePage Execution started !!!!
+2019-08-24 22:34:02,826 [main] INFO com.ecommerce.project.ecommerce.pages.WelcomePage - Capturing the Title of the Element
+2019-08-24 22:34:20,961 [main] INFO com.ecommerce.project.ecommerce.test.WelcomeTest - getTitleOfWelcomePage Execution ended !!!!
+2019-08-24 22:47:30,324 [main] INFO com.ecommerce.project.ecommerce.globalvariables.basepage.BaseSuite - Loading test data !!!
+2019-08-24 22:47:51,029 [main] INFO com.ecommerce.project.ecommerce.globalvariables.basepage.BaseSuite - Loading test data !!!
+2019-08-24 22:47:51,093 [main] INFO com.ecommerce.project.ecommerce.test.WelcomeTest - getTitleOfWelcomePage Execution started !!!!
+2019-08-24 22:47:51,096 [main] INFO com.ecommerce.project.ecommerce.pages.WelcomePage - Capturing the Title of the Element
+2019-08-24 22:48:08,370 [main] INFO com.ecommerce.project.ecommerce.test.WelcomeTest - getTitleOfWelcomePage Execution ended !!!!
+2019-08-24 23:13:03,756 [main] INFO com.ecommerce.project.ecommerce.globalvariables.basepage.BaseSuite - Loading test data !!!
+2019-08-24 23:13:16,633 [main] INFO com.ecommerce.project.ecommerce.globalvariables.basepage.BaseSuite - Loading test data !!!
+2019-08-24 23:13:16,748 [main] INFO com.ecommerce.project.ecommerce.test.WelcomeTest - getTitleOfWelcomePage Execution started !!!!
+2019-08-24 23:13:16,750 [main] INFO com.ecommerce.project.ecommerce.pages.WelcomePage - Capturing the Title of the Element

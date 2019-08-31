@@ -56,3 +56,43 @@
 2019-08-24 23:13:16,633 - com.ecommerce.project.ecommerce.globalvariables.basepage.BaseSuite -INFO - Loading test data !!!
 2019-08-24 23:13:16,748 - com.ecommerce.project.ecommerce.test.WelcomeTest -INFO - getTitleOfWelcomePage Execution started !!!!
 2019-08-24 23:13:16,750 - com.ecommerce.project.ecommerce.pages.WelcomePage -INFO - Capturing the Title of the Element
+2019-08-31 20:36:11,350 - com.ecommerce.project.ecommerce.globalvariables.basepage.BaseSuite -INFO - Loading test data !!!
+2019-08-31 20:36:41,660 - com.ecommerce.project.ecommerce.globalvariables.basepage.BaseSuite -INFO - Loading test data !!!
+2019-08-31 20:36:41,742 - com.ecommerce.project.ecommerce.test.WelcomeTest -INFO - getTitleOfWelcomePage Execution started !!!!
+2019-08-31 20:36:41,743 - com.ecommerce.project.ecommerce.pages.WelcomePage -INFO - Capturing the Title of the Element
+2019-08-31 20:37:16,113 - com.ecommerce.project.ecommerce.test.WelcomeTest -INFO - getTitleOfWelcomePage Execution ended !!!!
+2019-08-31 20:58:49,927 - com.ecommerce.project.ecommerce.globalvariables.basepage.BaseSuite -INFO - Loading test data !!!
+2019-08-31 20:59:11,559 - com.ecommerce.project.ecommerce.globalvariables.basepage.BaseSuite -INFO - Loading test data !!!
+2019-08-31 20:59:11,618 - com.ecommerce.project.ecommerce.test.WelcomeTest -INFO - getTitleOfWelcomePage Execution started !!!!
+2019-08-31 20:59:11,621 - com.ecommerce.project.ecommerce.pages.WelcomePage -INFO - Capturing the Title of the Element
+2019-08-31 20:59:31,913 - com.ecommerce.project.ecommerce.test.WelcomeTest -INFO - getTitleOfWelcomePage Execution ended !!!!
+2019-08-31 21:22:07,409 - com.ecommerce.project.ecommerce.globalvariables.basepage.BaseSuite -INFO - Loading test data !!!
+2019-08-31 21:22:24,365 - com.ecommerce.project.ecommerce.globalvariables.basepage.BaseSuite -INFO - Loading test data !!!
+2019-08-31 21:22:24,447 - com.ecommerce.project.ecommerce.test.WelcomeTest -INFO - getTitleOfWelcomePage Execution started !!!!
+2019-08-31 21:22:24,448 - com.ecommerce.project.ecommerce.pages.WelcomePage -INFO - Capturing the Title of the Element
+2019-08-31 21:22:42,223 - com.ecommerce.project.ecommerce.test.WelcomeTest -INFO - getTitleOfWelcomePage Execution ended !!!!
+2019-08-31 21:44:33,473 - com.ecommerce.project.ecommerce.globalvariables.basepage.BaseSuite -INFO - Loading test data !!!
+2019-08-31 21:44:55,653 - com.ecommerce.project.ecommerce.globalvariables.basepage.BaseSuite -INFO - Loading test data !!!
+2019-08-31 21:44:55,707 - com.ecommerce.project.ecommerce.test.WelcomeTest -INFO - getTitleOfWelcomePage Execution started !!!!
+2019-08-31 21:44:55,708 - com.ecommerce.project.ecommerce.pages.WelcomePage -INFO - Capturing the Title of the Element
+2019-08-31 21:45:14,181 - com.ecommerce.project.ecommerce.test.WelcomeTest -INFO - getTitleOfWelcomePage Execution ended !!!!
+2019-08-31 21:45:35,701 - com.ecommerce.project.ecommerce.globalvariables.basepage.BaseSuite -INFO - Loading test data !!!
+2019-08-31 21:45:53,331 - com.ecommerce.project.ecommerce.globalvariables.basepage.BaseSuite -INFO - Loading test data !!!
+2019-08-31 21:45:53,401 - com.ecommerce.project.ecommerce.test.WelcomeTest -INFO - getTitleOfWelcomePage Execution started !!!!
+2019-08-31 21:45:53,402 - com.ecommerce.project.ecommerce.pages.WelcomePage -INFO - Capturing the Title of the Element
+2019-08-31 21:46:12,741 - com.ecommerce.project.ecommerce.test.WelcomeTest -INFO - getTitleOfWelcomePage Execution ended !!!!
+2019-08-31 22:07:22,172 - com.ecommerce.project.ecommerce.globalvariables.basepage.BaseSuite -INFO - Loading test data !!!
+2019-08-31 22:07:39,435 - com.ecommerce.project.ecommerce.globalvariables.basepage.BaseSuite -INFO - Loading test data !!!
+2019-08-31 22:07:39,515 - com.ecommerce.project.ecommerce.test.WelcomeTest -INFO - getTitleOfWelcomePage Execution started !!!!
+2019-08-31 22:07:39,517 - com.ecommerce.project.ecommerce.pages.WelcomePage -INFO - Capturing the Title of the Element
+2019-08-31 22:07:56,419 - com.ecommerce.project.ecommerce.test.WelcomeTest -INFO - getTitleOfWelcomePage Execution ended !!!!
+2019-08-31 22:08:13,987 - com.ecommerce.project.ecommerce.globalvariables.basepage.BaseSuite -INFO - Loading test data !!!
+2019-08-31 22:08:30,334 - com.ecommerce.project.ecommerce.globalvariables.basepage.BaseSuite -INFO - Loading test data !!!
+2019-08-31 22:08:30,417 - com.ecommerce.project.ecommerce.test.WelcomeTest -INFO - getTitleOfWelcomePage Execution started !!!!
+2019-08-31 22:08:30,418 - com.ecommerce.project.ecommerce.pages.WelcomePage -INFO - Capturing the Title of the Element
+2019-08-31 22:08:47,942 - com.ecommerce.project.ecommerce.test.WelcomeTest -INFO - getTitleOfWelcomePage Execution ended !!!!
+2019-08-31 22:20:14,631 - com.ecommerce.project.ecommerce.globalvariables.basepage.BaseSuite -INFO - Loading test data !!!
+2019-08-31 22:20:34,011 - com.ecommerce.project.ecommerce.globalvariables.basepage.BaseSuite -INFO - Loading test data !!!
+2019-08-31 22:20:34,070 - com.ecommerce.project.ecommerce.test.WelcomeTest -INFO - getTitleOfWelcomePage Execution started !!!!
+2019-08-31 22:20:34,072 - com.ecommerce.project.ecommerce.pages.WelcomePage -INFO - Capturing the Title of the Element
+2019-08-31 22:20:52,883 - com.ecommerce.project.ecommerce.test.WelcomeTest -INFO - getTitleOfWelcomePage Execution ended !!!!
